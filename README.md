@@ -6,7 +6,7 @@ This package adds the Blackout-Racket to DrRacket.
 Note: colorschemes are only supported on Racket 6.0 and newer versions.
     
 #Installation 
-Under Package manager add the following package source 
+In DrRacket's package manager add the following package source 
 ```git
 git://github.com/hmtinc/Blackout-Racket
 ```
