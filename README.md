@@ -1,6 +1,6 @@
 
 # Blackout-Racket (Colour Scheme for DrRacket)
-![logo](https://github.com/hmtinc/)
+![logo](https://raw.githubusercontent.com/hmtinc/Blackout-Racket/master/Preview.png)
 
 This package adds the Blackout-Racket to DrRacket.
 Note: colorschemes are only supported on Racket 6.0 and newer versions.
